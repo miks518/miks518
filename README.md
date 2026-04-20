@@ -5,10 +5,10 @@
 <img src="avatar.png" width="180" align="right" /> 
 
 ```diff
--- Interested --
+-- Interests --
 
 * linux 🐧
-* cybersec enthusiast 🔐
-* reverse engineering ⚒️
+* Cybersec 🔐
+* Reverse engineering ⚒️
 * CTF 🚩
 ```
