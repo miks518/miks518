@@ -1,5 +1,5 @@
 
-# Hi there 👋 I am Mikko
+# hi there 👋 I am mikko
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&size=20&center=false&vCenter=true&width=500&lines=echo+%22CTF+Noob+🚩%22)
 
