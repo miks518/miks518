@@ -1,4 +1,6 @@
-
+<table>
+  <tr>
+    <dr>
 # hi there 👋 I am mikko
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&size=20&center=false&vCenter=true&width=500&lines=echo+%22CTF+Noob+🚩%22)
@@ -10,3 +12,9 @@
 * Cybersec enthusiast 🔐
 * Reverse engineering 🔨
 * CTF 🚩
+
+```
+
+</td> <td> <img src="avatar.png" width="200"/> </td> </tr>
+
+</table>
