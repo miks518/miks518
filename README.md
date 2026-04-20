@@ -1,24 +1,16 @@
-<table>
-  <tr>
-    <td>
+
 # hi there 👋 I am mikko
 
-![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&size=20&center=false&vCenter=true&width=500&lines=echo+%22CTF+Noob+🚩%22)
+![Typing SVG](https://readme-typing-svg.demolab.com?color=000000&size=28&center=false&vCenter=true&width=500&lines=$echo+%22Noob+CTF+Player+🚩%22)
 
-```bash
-${\color{red} @@ Interested @@}$
+<img src="avatar.png" width="180" align="right" /> 
 
-* Linux 🐧
-* Cybersec enthusiast 🔐
-* Reverse engineering 🔨
+```diff
+-- Interested --
+
+* linux 🐧
+* cybersec enthusiast 🔐
+* reverse engineering ⚒️
 * CTF 🚩
-
 ```
-  </td>
-  
-<td>
-  <img src="avatar.png" width="180" style="border:none;"/> 
-</td>  
 
-  </tr>
-</table>
